@@ -1,0 +1,8 @@
+key,from_value,to_value
+fontWeight,400,{core.font.weight.regular}
+fontWeight,500,{core.font.weight.medium}
+fontWeight,700,{core.font.weight.bold}
+fontWeight,900,{core.font.weight.black}
+lineHeight,125%,{core.font.lineheight.sm}
+lineHeight,150%,{core.font.lineheight.md}
+lineHeight,180%,{core.font.lineheight.lg}
